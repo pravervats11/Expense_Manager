@@ -1,5 +1,5 @@
 # Expense_Manager
-Developing a prodcut on MS Excel that will take care of your Expenses for one year. Users will be adding their expenses. Based on that they will get insights about all the expenditures as well as incomes.  
+Developing a prodcut that will take care of your Expenses for one year. Users will be adding their expenses. Based on that they will get insights about all the expenditures as well as incomes.  
 
 This app will take care of all the expenses of entire family and it can be used to optimize expenses in future.  
 
